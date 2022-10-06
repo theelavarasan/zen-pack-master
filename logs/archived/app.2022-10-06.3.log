@@ -1,0 +1,36 @@
+2022-10-06 09:33:23,784 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.733 seconds (JVM running for 3.723)
+2022-10-06 09:35:09,648 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 2976 (started by elava in F:\zen-pack-master)
+2022-10-06 09:35:09,649 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 09:35:09,650 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 09:35:12,207 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.717 seconds (JVM running for 3.661)
+2022-10-06 09:38:02,143 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 9020 (started by elava in F:\zen-pack-master)
+2022-10-06 09:38:02,145 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 09:38:02,145 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 09:38:04,889 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.9 seconds (JVM running for 3.799)
+2022-10-06 09:38:43,081 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 9136 (started by elava in F:\zen-pack-master)
+2022-10-06 09:38:43,083 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 09:38:43,084 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 09:38:45,750 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.843 seconds (JVM running for 3.884)
+2022-10-06 09:40:10,195 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 18876 (started by elava in F:\zen-pack-master)
+2022-10-06 09:40:10,197 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 09:40:10,197 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 09:40:12,795 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.755 seconds (JVM running for 3.73)
+2022-10-06 09:54:59,106 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 18832 (started by elava in F:\zen-pack-master)
+2022-10-06 09:54:59,108 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 09:54:59,109 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 09:55:01,781 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.829 seconds (JVM running for 3.713)
+2022-10-06 09:57:55,232 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 15000 (started by elava in F:\zen-pack-master)
+2022-10-06 09:57:55,234 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 09:57:55,234 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 09:57:57,803 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.73 seconds (JVM running for 3.686)
+2022-10-06 10:06:38,699 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 3520 (started by elava in F:\zen-pack-master)
+2022-10-06 10:06:38,700 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 10:06:38,701 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 10:06:41,369 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.822 seconds (JVM running for 3.75)
+2022-10-06 10:11:45,579 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 756 (started by elava in F:\zen-pack-master)
+2022-10-06 10:11:45,581 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 10:11:45,581 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
+2022-10-06 10:11:48,191 INFO com.zenfra.test.ReportControllerTest [main] Started ReportControllerTest in 2.764 seconds (JVM running for 3.657)
+2022-10-06 10:12:01,035 INFO com.zenfra.test.ReportControllerTest [main] Starting ReportControllerTest using Java 18.0.2.1 on MSI with PID 13784 (started by elava in F:\zen-pack-master)
+2022-10-06 10:12:01,036 DEBUG com.zenfra.test.ReportControllerTest [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-10-06 10:12:01,037 INFO com.zenfra.test.ReportControllerTest [main] No active profile set, falling back to 1 default profile: "default"
